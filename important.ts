@@ -1,0 +1,12 @@
+/* 
+    map
+    reduce
+    filter
+    forEach
+    sort
+    split
+    splice
+    join
+    slice
+    concat
+*/
